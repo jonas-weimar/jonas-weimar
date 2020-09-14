@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello there ✌🏽
+
+<div align="center">
+  <h3> 🙆🏼‍♂️I am Jonas Weimar | 💻 CS Student & Engineer | 🌏 Frankfurt, Germany </h3>
+</div>
+
+
+### What to know about me?
+- ⚖️ Studying Computer Science at the <a href="https://www.karlsruhe.dhbw.de/startseite.html">Cooperative State University Baden Württemberg (KA)</a>
+- 💻 Working as a Student-Engeneer at <a href="https://www.fraport.de">Fraport</a>
+- 🌱 Love to code in `Dart`, `JavaScript`, `Python` and more
+- 🚀 [This](https://www.instagram.com/jonascodes/) is where you can ask me anything
+
+### What else is there?
+- 💭 Always like to meet new people and their exciting storys
+- 🙋🏼‍♂️ How to reach out: Just write a `mail`
+- 🥴 Need help with `Clean Code`, and a lot more
+- ⚡ Fun fact: I like Phineas & Ferb
 
 <!--
 **jonas-weimar/jonas-weimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### What languages do I use most in public reps?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-weimar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
