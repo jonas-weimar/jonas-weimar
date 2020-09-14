@@ -1,4 +1,6 @@
-# Hello there ✌🏽
+<div align="center">
+  <h1>Hello there ✌🏽</h1>
+</div>
 
 <div align="center">
   <h3> 🙆🏼‍♂️I am Jonas Weimar | 💻 CS Student & Engineer | 🌏 Frankfurt, Germany </h3>
