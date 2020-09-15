@@ -8,8 +8,8 @@
 
 
 ### What to know about me?
-- ⚖️ Studying Computer Science at the <a href="https://www.karlsruhe.dhbw.de/startseite.html">Cooperative State University Baden Württemberg (KA)</a>
-- 💻 Working as a Student-Engeneer at <a href="https://www.fraport.de">Fraport</a>
+- ⚖️ Studying Computer Science at the <a href="https://www.karlsruhe.dhbw.de/startseite.html" target="_blank">Cooperative State University Baden Württemberg (KA)</a>
+- 💻 Working as a Student-Engeneer at <a href="https://www.fraport.de" target="_blank">Fraport</a>
 - 🌱 Love to code in `Dart`, `JavaScript`, `Python` and more
 - 🚀 [This](https://www.instagram.com/jonascodes/) is where you can ask me anything
 
