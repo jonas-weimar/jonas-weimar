@@ -17,7 +17,7 @@
 - 💭 Always like to meet new people and their exciting storys
 - 🙋🏼‍♂️ How to reach out: Just write a `mail`
 - 🥴 Need help with `Clean Code`, and a lot more
-- ⚡ Fun fact: I like Phineas & Ferb
+- ⚡ Fun fact: Favourite show: The Mandalorian
 
 <!--
 **jonas-weimar/jonas-weimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
