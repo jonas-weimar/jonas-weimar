@@ -11,6 +11,7 @@
 - ⚖️ Studying Computer Science at the <a href="https://www.karlsruhe.dhbw.de/startseite.html" target="_blank">Cooperative State University Baden Württemberg (KA)</a>
 - 💻 Cooperate Student at <a href="https://www.fraport.de" target="_blank">Fraport AG 🛫</a>
 - 🌱 Love to code in `Dart`, `JavaScript`, `Python` and more
+- 🔥 Working on a big sideproject with some friends - 👉 <a href="https://www.github.com/theventureapp" target="_blank">The Venture App</a>
 - 🚀 [This](https://www.instagram.com/jonascodes/) is where you can ask me anything
 
 ### What else is there?
