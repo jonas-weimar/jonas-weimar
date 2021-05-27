@@ -19,3 +19,5 @@
 - 🙋🏼‍♂️ How to reach out: Just write a `mail`
 - 🥴 Need help with `Clean Code`, and a lot more
 - ⚡ Fun fact: Favourite show: The Mandalorian
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=jonas-weimar&show_icons=true&theme=graywhite" alt="Jonas's stats" width="380px"/>
