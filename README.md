@@ -11,12 +11,12 @@
 - ⚖️ Studying Computer Science at the <a href="https://www.karlsruhe.dhbw.de/startseite.html" target="_blank">Cooperative State University Baden Württemberg (KA)</a>
 - 💻 Cooperate Student at <a href="https://www.fraport.de" target="_blank">Fraport AG 🛫</a>
 - 🌱 Love to code in `Dart`, `JavaScript`, `Python` and more
-- 🔥 Working on a big sideproject with some friends - 👉 <a href="https://www.github.com/theventureapp" target="_blank">The Venture App</a>
-- 🚀 [This](https://www.instagram.com/jonascodes/) is where you can ask me anything
+- 🔥 Working on a multiple sideprojects with some friends (ex. New Helments incooperating a HUD using Hololens for fire departments)
+- 🚀 [This](https://www.linkedin.com/in/jonas-weimar-34b10b189/) is where you can contact me to talk about any topic
 
 ### What else is there?
 - 💭 Always like to meet new people and their exciting storys
-- 🙋🏼‍♂️ How to reach out: Just write a `mail`
+- 🙋🏼‍♂️ How to reach out: Let's connect on [LinkedIn](https://www.linkedin.com/in/jonas-weimar-34b10b189/)
 - 🥴 Need help with `Clean Code`, and a lot more
 - ⚡ Fun fact: Favourite show: The Mandalorian
 
