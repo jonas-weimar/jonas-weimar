@@ -12,7 +12,7 @@
 - 💻 Cooperate Student at <a href="https://www.fraport.de" target="_blank">Fraport AG 🛫</a>
 - 🌱 Love to code in `Dart`, `JavaScript`, `Python` and more
 - 🔥 Working on a multiple sideprojects with some friends
-    - ex. Our Study Project: New fire fighter helments incooperating Hololens 2 to build HUD services using [MRTK](https://github.com/jonas-weimar/MixedRealityToolkit-Unity) and Unity3D
+    - ex. Our Study Project - Fire fighter helments incooperating Hololens 2 to build HUD services using [MRTK](https://github.com/jonas-weimar/MixedRealityToolkit-Unity) and Unity3D
 - 🚀 [This](https://www.linkedin.com/in/jonas-weimar-34b10b189/) is where you can contact me to talk about any topic
 
 ### What else is there?
