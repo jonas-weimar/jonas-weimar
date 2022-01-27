@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 🙆🏼‍♂️I am Jonas Weimar | 💻 CS Student & Engineer | 🌏 Frankfurt, Germany </h3>
+  <h3> 🙆🏼‍♂️I am Jonas Weimar | 💻 CS undegrad Student & Engineer | 🌏 Frankfurt, Germany </h3>
 </div>
 
 
