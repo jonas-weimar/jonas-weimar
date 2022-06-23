@@ -19,7 +19,5 @@
 ### What else is there?
 - 💭 Always like to meet new people and their exciting storys
 - 🙋🏼‍♂️ How to reach out: Let's connect on [LinkedIn](https://www.linkedin.com/in/jonas-weimar-34b10b189/)
-- 🥴 Need help with `Clean Code`, and a lot more
-- ⚡ Fun fact: Favourite show: The Mandalorian
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=jonas-weimar&show_icons=true&theme=graywhite" alt="Jonas's stats" width="380px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=jonas-weimar&show_icons=true&theme=radical" alt="Jonas's stats" width="380px"/>
