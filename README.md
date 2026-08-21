@@ -12,6 +12,9 @@ An independent playground for exploring **AI systems, intelligent runtimes, and 
 
 A **real-time intelligence dashboard** for aggregating, processing and visualizing information from multiple sources.
 
+#### Example Screenshots (DashB v0.4.1)
+[DashB Screenshots](./dashb-images)
+
 ### 🔧 Other things
 
 A mix of experiments around **distributed systems, IoT, cloud infrastructure and AI**.
