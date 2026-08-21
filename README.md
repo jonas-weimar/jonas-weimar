@@ -10,6 +10,7 @@ An independent lab for exploring **AI systems, intelligent runtimes, and the inf
 
 #### 📑 Active Research Projects
 - `Kernel`: An experimental, protocol-driven runtime software system designed to orchestrate Large Language Models (LLMs) as structured agent components.
+- `Q`: An autonomous AI agent built on Synapse Labs' Kernel runtime that leverages tools including `shell access`, `web search`, `smart home` and its self-built, 21,000+ line real-time intelligence dashboard `DashB` to autonomously execute tasks, aggregate and process information, and engineer complex software systems.
 
 ### 📡 DashB
 
