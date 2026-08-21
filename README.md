@@ -9,7 +9,7 @@ Currently working on:
 An independent lab for exploring **AI systems, intelligent runtimes, and the infrastructure behind them**.
 
 #### 📑 Active Research Projects
-- Kernel: An experimental, protocol-driven runtime software system designed to orchestrate Large Language Models (LLMs) as structured agent components.
+- `Kernel`: An experimental, protocol-driven runtime software system designed to orchestrate Large Language Models (LLMs) as structured agent components.
 
 ### 📡 DashB
 
