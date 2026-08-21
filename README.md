@@ -6,7 +6,10 @@ Currently working on:
 
 ### 🧠 Synapse Labs
 
-An independent playground for exploring **AI systems, intelligent runtimes, and the infrastructure behind them**.
+An independent lab for exploring **AI systems, intelligent runtimes, and the infrastructure behind them**.
+
+#### 📑 Active Research Projects
+- Kernel: An experimental, protocol-driven runtime software system designed to orchestrate Large Language Models (LLMs) as structured agent components.
 
 ### 📡 DashB
 
