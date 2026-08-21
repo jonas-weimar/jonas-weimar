@@ -10,7 +10,7 @@ An independent playground for exploring **AI systems, intelligent runtimes, and 
 
 ### 📡 DashB
 
-A **real-time intelligence dashboard** for aggregating, processing and visualizing information from multiple sources, build entirely by Q, an AI-Agent using Synapse Labs: Kernel. The main orchestration runtime for LLMs developed in the research project.
+A **real-time intelligence dashboard** for aggregating, processing and visualizing information from multiple sources, with over 21.000 lines of code, build entirely by Q, an AI-Agent using Synapse Labs: Kernel. The main orchestration runtime for LLMs developed in the research project.
 
 #### 📷 Example Screenshots (DashB v0.4.1)
 [DashB Screenshots](./dashb-images)
